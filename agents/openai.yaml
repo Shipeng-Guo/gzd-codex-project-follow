@@ -1,0 +1,6 @@
+interface:
+  display_name: "Codex Local Project Follow"
+  short_description: "Restore local Codex projects across accounts on Windows"
+  default_prompt: "Use $gzd-codex-project-follow to preview missing local projects and chat assignments after switching Codex accounts."
+policy:
+  allow_implicit_invocation: true

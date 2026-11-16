@@ -1,0 +1,13 @@
+# Stage only the public source files. Runtime state and new files stay private by default.
+*
+!/.gitignore
+!/README.md
+!/SKILL.md
+!/agents/
+!/agents/openai.yaml
+!/references/
+!/references/operations.md
+!/scripts/
+!/scripts/manage.ps1
+!/scripts/project_follow.py
+!/scripts/test_project_follow.py
